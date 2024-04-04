@@ -1,9 +1,7 @@
 # QuickTime
 An SPT AKI mod which provides a simple facility to quickly change the time in-game.
 
-This was built and briefly tested with the 26535 client and SPT AKI 3.7.6. It should work with the client as setup under any 3.7.x release though.
-
-I am not a developer so I apologize in advance for this.
+This was built and briefly tested with the 29197 client and SPT AKI 3.8.0.
 
 ![teaser](https://i.imgur.com/sKuibID.gif)
 
